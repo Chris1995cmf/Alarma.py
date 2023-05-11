@@ -33,7 +33,7 @@ while other == ("SI") and ("NO"):
         cont=0
         while cont <= 2:
             print("\n¡ ¡ ¡  L A  A L A R M A  E S T A  S O N A N D O  ! ! !")
-            playsound('C:/Users/Christian Fernandez/Documents/codigos de prueba/alarma.mp3')
+            playsound('C:/Users/Christian Fernandez/Documents/GitHub/Alarma.py/alarma.mp3')
             cont += 1
         break
 
